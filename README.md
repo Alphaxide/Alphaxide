@@ -1,4 +1,3 @@
-<a href="https://wakatime.com/@9cfef5c5-20d7-41ef-8682-e296e98ef299"><img src="https://wakatime.com/badge/user/9cfef5c5-20d7-41ef-8682-e296e98ef299.svg" alt="Total time coded since Jan 31 2025" /></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yoni-tad" />
 
 <h1 align="center">
@@ -44,10 +43,21 @@
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alphaxide&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Alphaxide&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+    <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alphaxide&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br
 
 <br/><br/>
